@@ -11,6 +11,16 @@
 
 My name is Abhishek and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
+- 🔭 I’m currently working on React
+
+- 🌱 I’m currently learning **Advance ReactJs ,NextJs**
+
+- 👨‍💻 All of my projects are available at...
+
+- 💬 Ask me about **react, expressJs,javascript,css**
+
+- 📫 How to reach me **saabhiahek@gmail.com**
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
