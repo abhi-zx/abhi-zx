@@ -7,7 +7,7 @@
   <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+![](https://visitor-badge.glitch.me/badge?page_id=abhi-zx)
 
 My name is Abhishek and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
