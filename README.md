@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhi-zx)
 
-My name is Abhishek and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+**I"m Abhishek** a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
 - 🔭 I’m currently working on React
 
