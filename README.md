@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/abhishek-singh-1b597b127/">
   <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/arunsridher">
+<a href="#">
   <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
