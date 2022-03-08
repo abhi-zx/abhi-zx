@@ -1,6 +1,5 @@
 
 
-<!-- <img alt="handwavegif" src="https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif" width='40' align="left"/> -->
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Singh</h1>
