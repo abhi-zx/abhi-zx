@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Singh</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+<h3 align="center">I am a Full Stack Web Developer with a strong focus on building scalable and efficient web applications using Java and React. I enjoy solving complex problems and collaborating with cross-functional teams to create impactful software solutions.
+</h3>
 
 <!-- <a href="#"><img width="100%" height="auto" src="./Images/full-stack-development.gif" height="175px"/></a> -->
 <img width="100%"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="350px" />
