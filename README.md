@@ -3,7 +3,9 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Singh</h1>
-<h3 align="center">I am a Full Stack Web Developer with a strong focus on building scalable and efficient web applications using Java and React. I enjoy solving complex problems and collaborating with cross-functional teams to create impactful software solutions.
+<h3 align="center">I am a Full Stack Web Developer with expertise in designing and building scalable, high-performance web applications using Java and React. I have a strong focus on clean architecture, efficient system design, and delivering robust, maintainable solutions.
+
+I enjoy tackling complex technical challenges, optimizing application performance, and translating business requirements into impactful digital solutions. I thrive in collaborative, cross-functional environments and am committed to continuously improving both product quality and development practices.
 </h3>
 
 <!-- <a href="#"><img width="100%" height="auto" src="./Images/full-stack-development.gif" height="175px"/></a> -->
